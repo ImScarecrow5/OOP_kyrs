@@ -1,0 +1,4 @@
+admin admin123 Андрей admin
+test2 test123 Роман waiter
+test3 test123 Георгий chef
+test test123 Антон customer
